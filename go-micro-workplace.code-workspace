@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "../../dev/go-micro/front-end"
+		},
+		{
+			"path": "../../dev/go-micro/broker-service"
+		},
+		{
+			"path": "../../dev/go-micro/project"
+		},
+		{
+			"path": "../../dev/go-micro/authentication-service"
+		},
+		{
+			"path": "../../dev/go-micro/logger-service"
+		},
+		{
+			"path": "../../dev/go-micro/mail-service"
+		},
+		{
+			"path": "../../dev/go-micro/listener-service"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "broker-service"
+	}
+}
