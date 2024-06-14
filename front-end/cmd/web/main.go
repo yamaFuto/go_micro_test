@@ -28,7 +28,7 @@ func render(w http.ResponseWriter, t string) {
 	}
 
 	var templateSlice []string
-	
+
 	templateSlice = append(templateSlice, fmt.Sprintf("./cmd/web/templates/%s", t))
 	templateSlice = append(templateSlice, partials...)
 
